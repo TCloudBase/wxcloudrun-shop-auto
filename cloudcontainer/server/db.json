@@ -1,0 +1,6 @@
+{
+  "host": "内网mysql地址",
+  "port": "内网mysql端口，默认3306",
+  "user": "用户名，默认root",
+  "password": "用户密码"
+}

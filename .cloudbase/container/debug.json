@@ -1,0 +1,10 @@
+{
+  "containers": [
+    {
+      "name": "server",
+      "domain": "",
+      "ip": "10.0.0.3",
+      "containerId": "a9fc3a850152ce98e9bf7348a2893a90cd415af8f1c316871129666d53a7ad6a"
+    }
+  ]
+}
