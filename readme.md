@@ -1,6 +1,6 @@
 # 云开发示例简易商城-微信云托管Mysql部署版本
 
-[<img src="https://main.qcloudimg.com/raw/ffa781b63fdead4cac23470ad2eeb552.png" width="220px">]()
+[<img src="https://main.qcloudimg.com/raw/ffa781b63fdead4cac23470ad2eeb552.png" width="220px">](https://cloud.weixin.qq.com/cloudrun/onekey?template=shop)
 
 ## 一、项目简介：
 - 本项目是简化版商城，保留商城的主体逻辑，去除了一些复杂的功能。
@@ -10,7 +10,7 @@
 - 微信云托管后续会支持对象存储，目前如果有图片存储需求可以先使用其他COS服务
 
 ## 二、一键部署步骤：
-- 点击[此链接]()跳转至控制台安装
+- 点击[此链接](https://cloud.weixin.qq.com/cloudrun/onekey?template=shop)跳转至控制台安装
 - 将项目源码在小程序开发者工具中打开，填写自己的小程序appid
 - 登录小程序开发者后台，设置服务类目为【企业管理】，订阅消息选择3520，名称为【新订单提醒】
 - 订阅消息项目选择订单号、订单状态、订单备注三项，创建保存模版id
